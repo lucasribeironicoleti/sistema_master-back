@@ -1,0 +1,6 @@
+# Pastas que não devem ser enviadas
+node_modules
+.next
+.env
+dist
+.DS_Store
